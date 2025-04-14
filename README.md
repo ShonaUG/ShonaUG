@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shonali
+- 👩‍🎓 I am an Undergraduate in University of Ruhuna.
 - 👀 I’m interested in trying new things.
 - 🌱 I’m currently learning JS, C..
 - 😄 Pronouns: Shona
